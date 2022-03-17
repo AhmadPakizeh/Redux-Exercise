@@ -105,7 +105,7 @@ function Item({ name, number, nation, post, id }) {
 
   const [editMode, setEditMode] = useState(false);
   return (
-    <Grid item xs={12} sm={12}>
+    <Grid item xs={12} sm={6}>
       
       <Paper className={classes.root}>
         {editMode ? (
@@ -210,6 +210,7 @@ function Item({ name, number, nation, post, id }) {
             <DeleteIcon />
           </IconButton>
         </Box>
+        
       </Paper>
     </Grid>
   );
