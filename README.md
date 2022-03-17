@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Farsi:
+در این پروژه از هوک و  یو آی  استفاده شده است:
+Hook & Material UI (mui.com).
+سرعت، کارایی و زیبایی افزایش یافته است
+منابع:
+mui.com
+react-redux.js.org
+reactjstutorials.com
+developer.mozilla.org
+https://medium.com/swlh/few-ways-to-update-a-state-array-in-redux-reducer-f2621ae8061
+Ali Alaei:
+https://www.youtube.com/playlist?list=PL6wpw9cKs6t8NL_N-7djPor5YJG_tVsZt
+https://www.youtube.com/playlist?list=PL6wpw9cKs6t-zVxZgJNpsxWizWzlKiZk8
+https://www.youtube.com/playlist?list=PL6wpw9cKs6t_W4sXcplyK6wZHZJPUkbZS
+https://www.youtube.com/playlist?list=PL6wpw9cKs6t9QJ2GC1jrKV81SVDVWZp1C
+
 ## Available Scripts
 
 In the project directory, you can run:
